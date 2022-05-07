@@ -1,0 +1,4 @@
+../board/peripherals.c:159:10:USART0_GetFreq	4	static
+../board/peripherals.c:163:13:FLEXCOMM0_init	8	static
+../board/peripherals.c:179:6:BOARD_InitPeripherals	8	static
+../board/peripherals.c:191:6:BOARD_InitBootPeripherals	8	static
